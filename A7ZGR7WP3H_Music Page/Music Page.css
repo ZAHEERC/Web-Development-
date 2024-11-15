@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background {
+    background-image: URL("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 100vh;
+    background-size: cover;
+    font-family: "Bree Serif";
+    color: white;
+}
+
+.text {
+    text-align: center;
+}
+
+.margin {
+    padding: 40px;
+}
+
+.heading {
+    font-size: 26px;
+    color: white;
+}
+
+.paragraph {
+    font-size: 14px;
+    color: white;
+}
+
+.image {
+    height: 200px;
+    width: 300px;
+}
+
+.padding {
+    padding: 20px;
+}
+
+.button {
+    background-color: #8e97fd;
+    border-radius: 20px;
+    border-width: 0px;
+    color: white;
+    font-size: 12px;
+    padding: 5px;
+    width: 90px;
+}
+
+.background2 {
+    background-color: #03174c;
+    height: 100vh;
+    background-size: cover;
+    font-family: "Bree Serif";
+}
+
+.image2 {
+    height: 200px;
+    width: 355px;
+}
+
+.paragraph2 {
+    color: #98a1bd;
+    font-size: 13px;
+}
+
+.music {
+    height: 90px;
+    width: 130px;
+}
